@@ -1,0 +1,6 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/001_HelloWorld/bin/Debug/001_HelloWorld.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/001_HelloWorld/bin/Debug/001_HelloWorld.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/001_HelloWorld/obj/Debug/001_HelloWorld.csproj.AssemblyReference.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/001_HelloWorld/obj/Debug/001_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/001_HelloWorld/obj/Debug/001_HelloWorld.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/001_HelloWorld/obj/Debug/001_HelloWorld.pdb
