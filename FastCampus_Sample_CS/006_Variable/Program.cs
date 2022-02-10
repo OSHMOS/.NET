@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace Application
+namespace _Variable
 {
     class MainClass
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num;
+            num = 1000;
+            Console.WriteLine(num);
         }
     }
 }

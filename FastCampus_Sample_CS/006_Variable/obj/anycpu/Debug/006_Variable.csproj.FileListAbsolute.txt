@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/006_Variable/bin/Debug/006_Variable.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/006_Variable/bin/Debug/006_Variable.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/006_Variable/obj/anycpu/Debug/006_Variable.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/006_Variable/obj/anycpu/Debug/006_Variable.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/006_Variable/obj/anycpu/Debug/006_Variable.pdb
