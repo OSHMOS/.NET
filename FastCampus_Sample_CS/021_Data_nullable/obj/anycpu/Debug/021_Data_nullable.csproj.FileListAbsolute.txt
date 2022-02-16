@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/021_Data_nullable/bin/Debug/021_Data_nullable.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/021_Data_nullable/bin/Debug/021_Data_nullable.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/021_Data_nullable/obj/anycpu/Debug/021_Data_nullable.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/021_Data_nullable/obj/anycpu/Debug/021_Data_nullable.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/021_Data_nullable/obj/anycpu/Debug/021_Data_nullable.pdb

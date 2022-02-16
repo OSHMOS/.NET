@@ -1,18 +1,18 @@
-﻿<Properties StartupConfiguration="{EFAE79C6-3F16-48AB-BAFB-6250B2867C23}|Default">
+﻿<Properties StartupConfiguration="{1CA04539-A4B0-40EE-B135-CE285D4F0347}|Default">
   <MonoDevelop.Ide.ItemProperties.012__Data5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.015__Data8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.007__Variable2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.021__Data__nullable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.022__Data__var PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="023_Data_const/Program.cs">
+    <Files>
+      <File FileName="023_Data_const/Program.cs" Line="20" Column="51" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FastCampus_Sample_CS" expanded="True">
-            <Node name="014_Data7" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="015_Data8" expanded="True" />
-            <Node name="016_String" expanded="True" />
-            <Node name="017_Data_bool" expanded="True" />
+            <Node name="023_Data_const" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -20,11 +20,15 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.011__Data4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.016__String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.018__Data__object PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.017__Data__bool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.008__Data1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.009__Data2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.010__Data3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.013__Data6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />

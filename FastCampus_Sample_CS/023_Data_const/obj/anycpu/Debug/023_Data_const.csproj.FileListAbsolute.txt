@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/023_Data_const/bin/Debug/023_Data_const.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/023_Data_const/bin/Debug/023_Data_const.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/023_Data_const/obj/anycpu/Debug/023_Data_const.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/023_Data_const/obj/anycpu/Debug/023_Data_const.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/023_Data_const/obj/anycpu/Debug/023_Data_const.pdb

@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/020_Data_enum2/bin/Debug/020_Data_enum2.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/020_Data_enum2/bin/Debug/020_Data_enum2.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/020_Data_enum2/obj/anycpu/Debug/020_Data_enum2.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/020_Data_enum2/obj/anycpu/Debug/020_Data_enum2.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/020_Data_enum2/obj/anycpu/Debug/020_Data_enum2.pdb
