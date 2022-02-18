@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_Data_var", "022_Data_va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023_Data_const", "023_Data_const\023_Data_const.csproj", "{1CA04539-A4B0-40EE-B135-CE285D4F0347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024_Data_cast", "024_Data_cast\024_Data_cast.csproj", "{8C1E3D42-C9F6-4536-94E5-061C533654B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -147,6 +149,10 @@ Global
 		{1CA04539-A4B0-40EE-B135-CE285D4F0347}.Debug|anycpu.Build.0 = Debug|anycpu
 		{1CA04539-A4B0-40EE-B135-CE285D4F0347}.Release|anycpu.ActiveCfg = Release|anycpu
 		{1CA04539-A4B0-40EE-B135-CE285D4F0347}.Release|anycpu.Build.0 = Release|anycpu
+		{8C1E3D42-C9F6-4536-94E5-061C533654B8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8C1E3D42-C9F6-4536-94E5-061C533654B8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8C1E3D42-C9F6-4536-94E5-061C533654B8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8C1E3D42-C9F6-4536-94E5-061C533654B8}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

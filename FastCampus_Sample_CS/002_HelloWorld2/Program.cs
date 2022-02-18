@@ -6,7 +6,12 @@ namespace _HelloWorld
     {
         public static void Main(string[] args)
         {
-            if(args.Length > 0)
+            /*---------------------------
+                * 가장 중요한 메소드
+                * 최초의 진입(Entry Point)
+                * 메인 메소드가 반드시 존재
+            -----------------------------*/
+            if (args.Length > 0)
             {
                 Console.WriteLine("Hello World: " + args[0]);
             }

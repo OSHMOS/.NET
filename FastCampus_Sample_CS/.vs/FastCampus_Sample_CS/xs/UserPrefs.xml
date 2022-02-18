@@ -4,16 +4,11 @@
   <MonoDevelop.Ide.ItemProperties.007__Variable2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.021__Data__nullable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.022__Data__var PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="023_Data_const/Program.cs">
-    <Files>
-      <File FileName="023_Data_const/Program.cs" Line="20" Column="51" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FastCampus_Sample_CS" expanded="True">
-            <Node name="023_Data_const" expanded="True" selected="True" />
-          </Node>
+          <Node name="FastCampus_Sample_CS" expanded="True" />
         </State>
       </Pad>
     </Pads>
@@ -24,6 +19,7 @@
   <MonoDevelop.Ide.ItemProperties.017__Data__bool PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.024__Data__cast FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.008__Data1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
