@@ -2,8 +2,8 @@
 
 /*------------------------
  * NAME : 024_Data_cast
- * DESC : 형 변환 기초
- -------------------------*/
+ * DESC : cast 연산자( ) 기초 
+-------------------------*/
 namespace _Data_cast
 {
     class MainClass
@@ -18,7 +18,13 @@ namespace _Data_cast
              * Parse()
              * Convert.~
              ---------------------------------------------*/
-            Console.WriteLine("Hello World!");
+            int num = 100;
+            double dNum = (double)num; // cast 연산하지 않아도 됨
+            Console.WriteLine("num : {0}, dNum: {1}", num, dNum);
+
+            double dNum2 = 12345678912;
+            int num2 = (int)dNum2; // 큰 데이터형을 작은 데이터로 변경 시 주의!!!
+            Console.WriteLine("dNum2: {0}, num2 : {1}", dNum2, num2);
         }
     }
 }

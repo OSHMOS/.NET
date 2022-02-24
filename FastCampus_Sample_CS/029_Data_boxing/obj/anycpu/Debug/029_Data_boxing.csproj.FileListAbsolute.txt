@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/029_Data_boxing/bin/Debug/029_Data_boxing.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/029_Data_boxing/bin/Debug/029_Data_boxing.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/029_Data_boxing/obj/anycpu/Debug/029_Data_boxing.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/029_Data_boxing/obj/anycpu/Debug/029_Data_boxing.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/029_Data_boxing/obj/anycpu/Debug/029_Data_boxing.pdb

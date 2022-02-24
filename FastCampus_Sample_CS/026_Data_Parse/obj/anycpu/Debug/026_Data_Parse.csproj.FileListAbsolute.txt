@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/026_Data_Parse/bin/Debug/026_Data_Parse.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/026_Data_Parse/bin/Debug/026_Data_Parse.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/026_Data_Parse/obj/anycpu/Debug/026_Data_Parse.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/026_Data_Parse/obj/anycpu/Debug/026_Data_Parse.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/026_Data_Parse/obj/anycpu/Debug/026_Data_Parse.pdb
