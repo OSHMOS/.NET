@@ -10,17 +10,19 @@ namespace _String
     {
         public static void Main(string[] args)
         {
-            /*----------------------------
+            /*--------------------------------
              * 문자열 제어
              * '+' : 두 개의 문자열을 합치기
              * '==' : 두 개의 문자열 비교
-             *  Replace : 특정 문자를 변경
-             *  ToUpper() : 모두 대문자로 변경
-             *  ToLower() : 모두 소문자로 변경
-             -----------------------------*/
+             *  Replace() : 특정 문자를 변경
+             *  ToUpper() : 문자열 모두 대문자로 변경
+             *  ToLower() : 문자열 모두 소문자로 변경
+             ----------------------------------*/
             string str1 = "abcdefg";
             string str2 = "hjklmn";
             string str3 = str1 + str2;
+            Console.WriteLine("0: " + '0');
+            Console.WriteLine("0: {0}", 0);
             Console.WriteLine("str1 + str2 : {0}", str3);
 
             string str4 = "zzz";
