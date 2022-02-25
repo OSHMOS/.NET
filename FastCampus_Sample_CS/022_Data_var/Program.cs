@@ -9,7 +9,7 @@ namespace _Data_var
     class MainClass
     {
         // 불가 : 반드시 지역변수만 사용
-        // var globaleVar = 100;
+         //var globaleVar = 100;
 
         public static void Main(string[] args)
         {

@@ -13,7 +13,7 @@ namespace _Data_boxing
             // boxing과 unboxing은 최소화하는 게 좋다
             int i = 123;
             object o = i; // boxing - 무거움
-            int j = (int)o; // unboxing - boxing보다 무거
+            int j = (int)o; // unboxing - boxing보다 무거움
             i = 456;
 
             Console.WriteLine("i : {0}, o : {1}, j : {2}", i, o, j);

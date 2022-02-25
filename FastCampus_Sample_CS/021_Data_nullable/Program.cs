@@ -23,7 +23,7 @@ namespace _Data_nullable
             Console.WriteLine("c : {0}", c);
 
             Console.WriteLine("isFlag : {0}", isFlag);
-            Console.WriteLine("isfFlag HasValue : {0}", isFlag.HasValue);
+            Console.WriteLine("isFlag HasValue : {0}", isFlag.HasValue);
 
             if (isFlag.HasValue) // 값을 참조하려면 반드시 null인지 체크해야 한다.
             {

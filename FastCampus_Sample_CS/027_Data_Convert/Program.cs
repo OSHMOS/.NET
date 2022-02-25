@@ -35,10 +35,12 @@ namespace _Data_Convert
             int convertA = Convert.ToInt32(strA);
             float convertB = Convert.ToSingle(strB);
             decimal convertC = Convert.ToDecimal(strC);
+            string convertD = Convert.ToString(parseA);
 
             Console.WriteLine("Convert.ToInt32(strA) : {0}", convertA);
             Console.WriteLine("Convert.ToSingle(strB) : {0}", convertB);
             Console.WriteLine("Convert.ToDecimal(strC) : {0}", convertC);
+            Console.WriteLine("Convert.ToString(parseA) : {0}", convertD);
         }
     }
 }

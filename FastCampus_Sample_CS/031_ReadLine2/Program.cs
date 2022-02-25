@@ -8,7 +8,7 @@ namespace _ReadLine2
         {
             Console.Write("첫 번째 정수를 입력하세요.");
             string str1 = Console.ReadLine();
-            Console.Write("첫 번째 정수를 입력하세요.");
+            Console.Write("두 번째 정수를 입력하세요.");
             string str2 = Console.ReadLine();
 
             // 무조건 형 변환!!!
