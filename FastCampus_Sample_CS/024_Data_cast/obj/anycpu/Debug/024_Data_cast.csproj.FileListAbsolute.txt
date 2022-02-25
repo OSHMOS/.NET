@@ -1,0 +1,6 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/024_Data_cast/bin/Debug/024_Data_cast.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/024_Data_cast/bin/Debug/024_Data_cast.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/024_Data_cast/obj/anycpu/Debug/024_Data_cast.csproj.AssemblyReference.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/024_Data_cast/obj/anycpu/Debug/024_Data_cast.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/024_Data_cast/obj/anycpu/Debug/024_Data_cast.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/024_Data_cast/obj/anycpu/Debug/024_Data_cast.pdb
