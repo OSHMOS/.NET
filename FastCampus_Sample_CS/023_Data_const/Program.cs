@@ -16,7 +16,7 @@ namespace _Data_const
 
             Console.WriteLine("MIN : {0} ~ MAX : {1}", MIN, MAX);
 
-            // MAX = 1000; // 오류(프로그램 중간에 변경 불가)
+             //MAX = 1000; // 오류(프로그램 중간에 변경 불가)
             // 상수의 장점 : 코드를 고칠 때 한 부분만 고치면 돼서 편하다.
         }
     }

@@ -9,7 +9,7 @@ namespace _Data_var
     class MainClass
     {
         // 불가 : 반드시 지역변수만 사용
-         //var globaleVar = 100;
+        //var globaleVar = 100;
 
         public static void Main(string[] args)
         {
@@ -30,7 +30,7 @@ namespace _Data_var
             Console.WriteLine("{0}{1} {2}", d, e, f);
 
             // 불가 :  반드시 선언과 동시에 초기화
-            // var noInitialVar;
+             //var noInitialVar;
 
             var num = 0;
             num = 100;

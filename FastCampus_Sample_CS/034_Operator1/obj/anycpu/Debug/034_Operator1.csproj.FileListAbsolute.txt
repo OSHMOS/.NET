@@ -1,0 +1,6 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/034_Operator1/bin/Debug/034_Operator1.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/034_Operator1/bin/Debug/034_Operator1.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/034_Operator1/obj/anycpu/Debug/034_Operator1.csproj.AssemblyReference.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/034_Operator1/obj/anycpu/Debug/034_Operator1.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/034_Operator1/obj/anycpu/Debug/034_Operator1.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/034_Operator1/obj/anycpu/Debug/034_Operator1.pdb
