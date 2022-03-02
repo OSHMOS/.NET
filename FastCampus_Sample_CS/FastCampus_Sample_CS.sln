@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39_Operator6", "39_Operator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "40_Operator_Bit", "40_Operator_Bit\40_Operator_Bit.csproj", "{2159AF3F-916E-4F9F-82C1-963250D48AA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41_Operator_null", "41_Operator_null\41_Operator_null.csproj", "{48AE14DC-253C-42A4-AEFE-B22A1DBF699B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -255,6 +257,10 @@ Global
 		{2159AF3F-916E-4F9F-82C1-963250D48AA1}.Debug|anycpu.Build.0 = Debug|anycpu
 		{2159AF3F-916E-4F9F-82C1-963250D48AA1}.Release|anycpu.ActiveCfg = Release|anycpu
 		{2159AF3F-916E-4F9F-82C1-963250D48AA1}.Release|anycpu.Build.0 = Release|anycpu
+		{48AE14DC-253C-42A4-AEFE-B22A1DBF699B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{48AE14DC-253C-42A4-AEFE-B22A1DBF699B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{48AE14DC-253C-42A4-AEFE-B22A1DBF699B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{48AE14DC-253C-42A4-AEFE-B22A1DBF699B}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

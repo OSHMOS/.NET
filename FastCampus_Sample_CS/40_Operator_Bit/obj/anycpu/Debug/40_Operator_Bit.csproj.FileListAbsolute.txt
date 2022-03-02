@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/40_Operator_Bit/bin/Debug/40_Operator_Bit.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/40_Operator_Bit/bin/Debug/40_Operator_Bit.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/40_Operator_Bit/obj/anycpu/Debug/40_Operator_Bit.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/40_Operator_Bit/obj/anycpu/Debug/40_Operator_Bit.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/40_Operator_Bit/obj/anycpu/Debug/40_Operator_Bit.pdb

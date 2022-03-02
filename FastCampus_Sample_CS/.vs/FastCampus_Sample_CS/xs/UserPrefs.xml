@@ -1,22 +1,25 @@
-﻿<Properties StartupConfiguration="{2159AF3F-916E-4F9F-82C1-963250D48AA1}|Default">
+﻿<Properties StartupConfiguration="{48AE14DC-253C-42A4-AEFE-B22A1DBF699B}|Default">
   <MonoDevelop.Ide.ItemProperties.012__Data5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.015__Data8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.007__Variable2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.38__Operator5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.021__Data__nullable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.022__Data__var PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.41__Operator__null PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.40__Operator__Bit FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.40__Operator__Bit PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.030__ReadLine PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="40_Operator_Bit/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="41_Operator_null/Program.cs">
     <Files>
-      <File FileName="40_Operator_Bit/Program.cs" Line="1" Column="1" />
+      <File FileName="41_Operator_null/Program.cs" Line="5" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FastCampus_Sample_CS" expanded="True">
-            <Node name="40_Operator_Bit" expanded="True" selected="True" />
+            <Node name="41_Operator_null" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
