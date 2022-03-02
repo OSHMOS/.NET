@@ -1,56 +1,68 @@
-﻿<Properties StartupConfiguration="{F2814754-68B2-46BA-85C3-18C0157EFDD3}|Default">
-  <MonoDevelop.Ide.ItemProperties.012__Data5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.015__Data8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.007__Variable2 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{11F44F43-69F1-48D5-BA79-2315AF55F1CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.036__01__Operator3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.021__Data__nullable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.022__Data__var PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.025__Data__ToString PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.030__ReadLine PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="033_Check/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.036__Operator3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.034__Operator1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="037_Operator4/Program.cs">
     <Files>
+<<<<<<< HEAD
       <File FileName="031_ReadLine2/Program.cs" Line="14" Column="27" />
       <File FileName="032_Check/Program.cs" />
       <File FileName="033_Check/Program.cs" Line="1" Column="1" />
+=======
+      <File FileName="024_Data_cast/Program.cs" Line="19" Column="25" />
+      <File FileName="025_Data_ToString/Program.cs" />
+      <File FileName="026_Data_Parse/Program.cs" />
+      <File FileName="027_Data_Convert/Program.cs" />
+      <File FileName="028_Data_reference/Program.cs" />
+      <File FileName="029_Data_boxing/Program.cs" />
+      <File FileName="030_ReadLine/Program.cs" />
+      <File FileName="031_ReadLine2/Program.cs" />
+      <File FileName="032_Check/Program.cs" Line="1" Column="1" />
+      <File FileName="033_Check/Program.cs" Line="28" Column="13" />
+      <File FileName="037_Operator4/Program.cs" Line="32" Column="39" />
+>>>>>>> main
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FastCampus_Sample_CS" expanded="True">
+            <Node name="024_Data_cast" expanded="True" />
+            <Node name="025_Data_ToString" expanded="True" />
+            <Node name="026_Data_Parse" expanded="True" />
+            <Node name="027_Data_Convert" expanded="True" />
+            <Node name="028_Data_reference" expanded="True" />
+            <Node name="029_Data_boxing" expanded="True" />
+            <Node name="030_ReadLine" expanded="True" />
+            <Node name="031_ReadLine2" expanded="True" />
             <Node name="032_Check" expanded="True" />
-            <Node name="033_Check" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="033_Check" expanded="True" />
+            <Node name="034_Operator1" expanded="True" />
+            <Node name="035_Operator2" expanded="True" />
+            <Node name="036_01_Operator3" expanded="True" />
+            <Node name="036_Operator3" expanded="True" />
+            <Node name="037_Operator4" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.011__Data4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.033__Check FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.016__String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.033__Check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.037__Operator4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.027__Data__Convert PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.018__Data__object PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.026__Data__Parse PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.017__Data__bool PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.020__Data__enum2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.032__Check FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.032__Check PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.019__Data__enum PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.024__Data__cast PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.031__ReadLine2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.008__Data1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.009__Data2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.023__Data__const PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.029__Data__boxing PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.010__Data3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.013__Data6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.035__Operator2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.006__Variable PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.028__Data__reference PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.014__Data7 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/036_Operator3/bin/Debug/036_Operator3.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/036_Operator3/bin/Debug/036_Operator3.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/036_Operator3/obj/anycpu/Debug/036_Operator3.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/036_Operator3/obj/anycpu/Debug/036_Operator3.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/036_Operator3/obj/anycpu/Debug/036_Operator3.pdb
