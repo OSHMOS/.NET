@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/55_CHECK/bin/Debug/55_CHECK.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/55_CHECK/bin/Debug/55_CHECK.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/55_CHECK/obj/anycpu/Debug/55_CHECK.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/55_CHECK/obj/anycpu/Debug/55_CHECK.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/55_CHECK/obj/anycpu/Debug/55_CHECK.pdb

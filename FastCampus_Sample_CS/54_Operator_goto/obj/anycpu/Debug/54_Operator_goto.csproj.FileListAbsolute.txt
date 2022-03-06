@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/54_Operator_goto/bin/Debug/54_Operator_goto.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/54_Operator_goto/bin/Debug/54_Operator_goto.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/54_Operator_goto/obj/anycpu/Debug/54_Operator_goto.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/54_Operator_goto/obj/anycpu/Debug/54_Operator_goto.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/54_Operator_goto/obj/anycpu/Debug/54_Operator_goto.pdb

@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/52_Operator_break/bin/Debug/52_Operator_break.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/52_Operator_break/bin/Debug/52_Operator_break.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/52_Operator_break/obj/anycpu/Debug/52_Operator_break.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/52_Operator_break/obj/anycpu/Debug/52_Operator_break.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/52_Operator_break/obj/anycpu/Debug/52_Operator_break.pdb

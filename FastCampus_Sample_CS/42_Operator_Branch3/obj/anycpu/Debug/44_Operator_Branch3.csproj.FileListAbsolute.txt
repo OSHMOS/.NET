@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/42_Operator_Branch3/bin/Debug/42_Operator_Branch3.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/42_Operator_Branch3/bin/Debug/42_Operator_Branch3.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/42_Operator_Branch3/obj/anycpu/Debug/44_Operator_Branch3.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/42_Operator_Branch3/obj/anycpu/Debug/42_Operator_Branch3.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/42_Operator_Branch3/obj/anycpu/Debug/42_Operator_Branch3.pdb

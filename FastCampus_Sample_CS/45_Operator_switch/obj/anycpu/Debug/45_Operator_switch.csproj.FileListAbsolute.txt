@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/45_Operator_switch/bin/Debug/45_Operator_switch.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/45_Operator_switch/bin/Debug/45_Operator_switch.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/45_Operator_switch/obj/anycpu/Debug/45_Operator_switch.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/45_Operator_switch/obj/anycpu/Debug/45_Operator_switch.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/45_Operator_switch/obj/anycpu/Debug/45_Operator_switch.pdb

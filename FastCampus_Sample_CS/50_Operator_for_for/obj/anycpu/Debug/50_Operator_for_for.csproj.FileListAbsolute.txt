@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/50_Operator_for_for/bin/Debug/50_Operator_for_for.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/50_Operator_for_for/bin/Debug/50_Operator_for_for.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/50_Operator_for_for/obj/anycpu/Debug/50_Operator_for_for.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/50_Operator_for_for/obj/anycpu/Debug/50_Operator_for_for.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/50_Operator_for_for/obj/anycpu/Debug/50_Operator_for_for.pdb

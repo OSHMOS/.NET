@@ -1,0 +1,5 @@
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/47_Operator_while/bin/Debug/47_Operator_while.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/47_Operator_while/bin/Debug/47_Operator_while.pdb
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/47_Operator_while/obj/anycpu/Debug/47_Operator_while.csproj.CoreCompileInputs.cache
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/47_Operator_while/obj/anycpu/Debug/47_Operator_while.exe
+/Users/oseunghyeon/Desktop/C#_/FastCampus_Sample_CS/47_Operator_while/obj/anycpu/Debug/47_Operator_while.pdb
