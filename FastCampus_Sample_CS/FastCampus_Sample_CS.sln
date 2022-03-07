@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Check", "55_CHECK\55_CHE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_Check", "56_Check\56_Check.csproj", "{05BE9429-5804-4A7B-8794-70B79665D295}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57_Check", "57_Check\57_Check.csproj", "{FE98D4D2-9FB4-4B2F-8817-82789E76727C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -351,6 +353,10 @@ Global
 		{05BE9429-5804-4A7B-8794-70B79665D295}.Debug|anycpu.Build.0 = Debug|anycpu
 		{05BE9429-5804-4A7B-8794-70B79665D295}.Release|anycpu.ActiveCfg = Release|anycpu
 		{05BE9429-5804-4A7B-8794-70B79665D295}.Release|anycpu.Build.0 = Release|anycpu
+		{FE98D4D2-9FB4-4B2F-8817-82789E76727C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FE98D4D2-9FB4-4B2F-8817-82789E76727C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FE98D4D2-9FB4-4B2F-8817-82789E76727C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FE98D4D2-9FB4-4B2F-8817-82789E76727C}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
