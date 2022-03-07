@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Operator_goto", "54_Oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Check", "55_CHECK\55_CHECK.csproj", "{B0F76E0B-2D10-4CA3-BE45-91A2579D87F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_Check", "56_Check\56_Check.csproj", "{05BE9429-5804-4A7B-8794-70B79665D295}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -345,6 +347,10 @@ Global
 		{B0F76E0B-2D10-4CA3-BE45-91A2579D87F5}.Debug|anycpu.Build.0 = Debug|anycpu
 		{B0F76E0B-2D10-4CA3-BE45-91A2579D87F5}.Release|anycpu.ActiveCfg = Release|anycpu
 		{B0F76E0B-2D10-4CA3-BE45-91A2579D87F5}.Release|anycpu.Build.0 = Release|anycpu
+		{05BE9429-5804-4A7B-8794-70B79665D295}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{05BE9429-5804-4A7B-8794-70B79665D295}.Debug|anycpu.Build.0 = Debug|anycpu
+		{05BE9429-5804-4A7B-8794-70B79665D295}.Release|anycpu.ActiveCfg = Release|anycpu
+		{05BE9429-5804-4A7B-8794-70B79665D295}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

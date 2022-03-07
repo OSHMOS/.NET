@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{B0F76E0B-2D10-4CA3-BE45-91A2579D87F5}|Default">
+﻿<Properties StartupConfiguration="{05BE9429-5804-4A7B-8794-70B79665D295}|Default">
   <MonoDevelop.Ide.ItemProperties.45__Operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.50__Operator__for__for PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.53__Operator__continue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.44__Operator__Branch3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.47__Operator__while PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.52__Operator__break PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="55_CHECK/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="56_Check/Program.cs">
     <Files>
-      <File FileName="54_Operator_goto/Program.cs" Line="5" Column="31" />
-      <File FileName="55_CHECK/Program.cs" Line="8" Column="42" />
+      <File FileName="56_Check/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FastCampus_Sample_CS" expanded="True">
-            <Node name="55_Check" expanded="True" selected="True" />
+            <Node name="55_Check" selected="True" />
+            <Node name="56_Check" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -22,6 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.48__Operator__do__while PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.42__Operator__Branch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.56__Check FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.49__Operator__for PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
