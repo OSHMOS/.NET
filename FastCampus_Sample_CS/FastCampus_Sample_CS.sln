@@ -113,11 +113,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53_Operator_continue", "53_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_Operator_goto", "54_Operator_goto\54_Operator_goto.csproj", "{53E12D17-12C6-4A22-81A7-294446AF1D4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_Check", "55_CHECK\55_CHECK.csproj", "{B0F76E0B-2D10-4CA3-BE45-91A2579D87F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_CHECK", "55_CHECK\55_CHECK.csproj", "{B0F76E0B-2D10-4CA3-BE45-91A2579D87F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_Check", "56_Check\56_Check.csproj", "{05BE9429-5804-4A7B-8794-70B79665D295}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "57_Check", "57_Check\57_Check.csproj", "{FE98D4D2-9FB4-4B2F-8817-82789E76727C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint01", "CheckPoint01\CheckPoint01.csproj", "{B6987060-E70E-45CC-8BF3-6244790F8DC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -357,6 +359,10 @@ Global
 		{FE98D4D2-9FB4-4B2F-8817-82789E76727C}.Debug|anycpu.Build.0 = Debug|anycpu
 		{FE98D4D2-9FB4-4B2F-8817-82789E76727C}.Release|anycpu.ActiveCfg = Release|anycpu
 		{FE98D4D2-9FB4-4B2F-8817-82789E76727C}.Release|anycpu.Build.0 = Release|anycpu
+		{B6987060-E70E-45CC-8BF3-6244790F8DC6}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{B6987060-E70E-45CC-8BF3-6244790F8DC6}.Debug|anycpu.Build.0 = Debug|anycpu
+		{B6987060-E70E-45CC-8BF3-6244790F8DC6}.Release|anycpu.ActiveCfg = Release|anycpu
+		{B6987060-E70E-45CC-8BF3-6244790F8DC6}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

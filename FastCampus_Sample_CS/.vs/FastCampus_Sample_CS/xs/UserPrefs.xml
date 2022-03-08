@@ -1,16 +1,21 @@
-﻿<Properties StartupConfiguration="{FE98D4D2-9FB4-4B2F-8817-82789E76727C}|Default">
+﻿<Properties StartupConfiguration="{B6987060-E70E-45CC-8BF3-6244790F8DC6}|Default">
   <MonoDevelop.Ide.ItemProperties.45__Operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.50__Operator__for__for PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.53__Operator__continue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.44__Operator__Branch3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.47__Operator__while PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.52__Operator__break PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CheckPoint01/Program.cs">
+    <Files>
+      <File FileName="CheckPoint01/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FastCampus_Sample_CS" expanded="True">
-            <Node name="57_Check" selected="True" />
+            <Node name="CheckPoint01" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -24,6 +29,7 @@
   <MonoDevelop.Ide.ItemProperties.001__HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.51__Operator__while__true PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.43__Operator__Branch2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CheckPoint01 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.46__Operator__switch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.54__Operator__goto PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
