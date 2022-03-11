@@ -15,7 +15,7 @@ namespace _Operator_Branch3
             bool isC = true;
             bool isD = false;
 
-            if(isA && isB) // false && true => flase
+            if(isA && isB) // false && true => false
             {
                 Console.WriteLine("false && true => false"); // X
             }

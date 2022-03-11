@@ -4,11 +4,10 @@
   <MonoDevelop.Ide.ItemProperties.53__Operator__continue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.44__Operator__Branch3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.47__Operator__while PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.41__Operator__null PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.036__Operator3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.52__Operator__break PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CheckPoint01/Program.cs">
-    <Files>
-      <File FileName="CheckPoint01/Program.cs" Line="134" Column="31" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -36,5 +35,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.55__Check PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -12,11 +12,12 @@ namespace _Operator_goto
         {
             for (int i = 0; i < 10; i++)
             {
+                //Console.WriteLine("{0}", i);
                 if(i == 5)
                 {
                     goto AA;
                 }
-
+                //Console.WriteLine("{0}", i);
                 if (i == 7)
                 {
                     goto BB;

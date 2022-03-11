@@ -2,7 +2,7 @@
 
 /*--------------------------------------
  * NAME : 49_Operator_for
- * DESC : enum데이터 선언 후 switch문 사용하기
+ * DESC : for문
  ---------------------------------------*/
 namespace _Operator_for
 {
